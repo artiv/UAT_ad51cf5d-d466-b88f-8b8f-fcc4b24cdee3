@@ -1,0 +1,29 @@
+{
+	"fileName": "videoTemplate.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "be4ba732-3267-3348-221a-5b3f28b225c5",
+			"fileTemplateDate": "2019-05-21T20:37:37.110Z",
+			"fileTemplateCollections": [
+				"fTZ63gCovh4xSg56s"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"fTZ63gCovh4xSg56s"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "mnDTnJkmaLrPH7ym5",
+			"possibleLanguages": [
+				"aq4ZMbSxmSSLxkALv",
+				"zn7qJXuhM7u8mKBv9"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": []
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
